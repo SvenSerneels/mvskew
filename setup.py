@@ -30,7 +30,7 @@ setup(
     version=__version__,
     author=__author__,
     author_email="svenserneels@gmail.com",
-    description="A Python 3 Library for State-of-the-Art Statistical Dimension Reduction Methods",
+    description="Multivariate skew distribution samplers",
     long_description=readme,
     long_description_content_type='text/markdown',
     url="https://github.com/SvenSerneels/mvskew",
