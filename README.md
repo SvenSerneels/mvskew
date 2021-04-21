@@ -39,6 +39,6 @@ References
 ----------
 
 The skew and extended skew families are described in detail in: 
-[1] Azzalini, A., in collaboration with Capitanio, A., The Skew-Normal and Related Families, IMS Monograph series, Cambridge University Press, Cambridge, UK, 2014.
-[2] Azzalini, A. and Dalla Valle, A. The Multivariate Skew-Normal Distribution, Biometrika, Vol. 83, No. 4 (1996), pp. 715-726. 
+1. Azzalini, A., in collaboration with Capitanio, A., The Skew-Normal and Related Families, IMS Monograph series, Cambridge University Press, Cambridge, UK, 2014.
+2. Azzalini, A. and Dalla Valle, A. The Multivariate Skew-Normal Distribution, Biometrika, Vol. 83, No. 4 (1996), pp. 715-726. 
 
